@@ -2,9 +2,9 @@
 
 ## Days 1–3: establish the facts
 
-- Record graduation month/year, university, exact BSEE title, HEC/PEC status, years and type of paid work, English test evidence, savings, passport validity, and whether there is a sponsor in Germany. Use [CHECKLIST.md](CHECKLIST.md) privately.
-- Check both anabin entries; start ZAB if needed. This decides the simplest Opportunity Card and skilled-work branches.
-- Choose the correct German mission jurisdiction (Islamabad or Karachi) and read its current national-visa checklist.
+- Confirm the exact diploma title and awarding campus. Air University, Islamabad already shows H+ in anabin; the generic Pakistani four-year Bachelor of [Fachrichtung] Engineering shows Entspricht. Save both official printouts if the diploma matches. Start ZAB if the exact match cannot be shown.
+- Record HEC/PEC status, years and type of paid work, English test evidence, savings, passport validity, and whether there is a sponsor in Germany. Use [CHECKLIST.md](CHECKLIST.md) privately.
+- Rawalpindi falls under the German Embassy Islamabad. Read its [employment/jobseeker national-visa page](https://pakistan.diplo.de/pk-en/service/4-work-jobseeker-1676106) and start through the linked Consular Services Portal once the visa branch is determined.
 
 ## Days 4–10: prepare applications
 

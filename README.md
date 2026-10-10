@@ -1,6 +1,6 @@
 # Legal routes from Pakistan to Germany (and alternatives)
 
-Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, BSEE/electrical engineering degree from Pakistan, no German yet, willing to take entry-level work. This is a planning guide, not a visa decision. Verify every rule and amount on the linked official page immediately before applying.
+Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air University BE in electrical engineering (Sep 2019–Nov 2024), C1 English, no German yet, based in Rawalpindi. See the [case status](CASE_STATUS.md) for what is verified and what still blocks a visa application. This is a planning guide, not a visa decision. Verify every rule and amount on the linked official page immediately before applying.
 
 ## The short answer
 
@@ -23,7 +23,7 @@ If degree comparability, funds, or a job offer is missing, start German now and 
 
 ## Start here
 
-1. Read [degree recognition](RECOGNITION.md). Record the university, exact award title, graduation date, HEC/PEC status, anabin result, and whether ZAB is needed. **HEC/PEC certification alone does not prove German comparability.**
+1. Read [degree recognition](RECOGNITION.md). Air University, Islamabad is listed **H+** in anabin, and anabin lists a Pakistani four-year “Bachelor of [Fachrichtung] Engineering” as **Entspricht**. Confirm his diploma's exact award title and campus against those entries, then save official printouts. **HEC/PEC certification alone does not prove German comparability.**
 2. Fill out the [personal decision sheet](CHECKLIST.md) without committing sensitive documents to this repository.
 3. Follow the [30-day action plan](ACTION_PLAN.md): apply for qualified EE and adjacent technical roles, work on German, and prepare the correct visa branch.
 4. Use the [official source index](SOURCES.md) for current rules. The German mission's Karachi Opportunity Card page currently quotes **€1,027/month**, while the federal portal quotes **€1,091/month for 2026**; the mission says Islamabad applications use the Consular Services Portal. Treat the amount as unresolved until the current application checklist confirms it.

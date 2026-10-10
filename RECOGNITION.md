@@ -1,9 +1,11 @@
 # Check the Pakistani BSEE for Germany
 
-The actual university and award must be checked. “BSEE,” HEC attestation, and PEC registration are useful records but are not, by themselves, proof that Germany considers the university and degree comparable.
+**Case-specific findings, checked 10 October 2026:** [anabin's institution database](https://anabin.kmk.org/db/institutionen) lists **Air University, Islamabad** as **H+**. Its [degree database](https://anabin.kmk.org/db/hochschulabschluesse) lists Pakistan's four-year **“Bachelor of [Fachrichtung] Engineering”** as **“Entspricht”** (comparable) to a German bachelor's degree. This looks promising for a four-year BE in electrical engineering. The diploma's exact title, awarding campus, and whether that generic degree entry covers it must still be checked before treating recognition as established for a visa. LinkedIn wording is not sufficient evidence.
 
-1. Search the [anabin database](https://anabin.kmk.org/) for the **awarding institution**. Record its status (normally H+ is needed) and save the result.
-2. Search the **exact degree type/title** and check its equivalence/comparability result. Save this result too. The [official anabin guide](https://www.make-it-in-germany.com/en/pdfs/guide-anabin) explains the two checks.
+HEC attestation and PEC registration are useful records but are not, by themselves, proof of German comparability.
+
+1. Confirm that the diploma names **Air University, Islamabad** as the awarding institution and save/print its H+ anabin record.
+2. Read the exact award title on the diploma. Check whether the four-year “Bachelor of [Fachrichtung] Engineering” entry covers it and save/print the **Entspricht** result. The [official anabin guide](https://www.make-it-in-germany.com/en/pdfs/guide-anabin) explains the two checks.
 3. If either check cannot establish comparability, request a [ZAB Statement of Comparability](https://zab.kmk.org/en/statement-comparability). Follow ZAB's current document, fee, and processing instructions. Do this early because it can hold up both job-visa and recognised-degree Opportunity Card applications.
 4. Keep degree, complete transcripts, HEC attestation, PEC documents (if any), passport, and employment letters together. Use the [Pakistan mission's current checklist](https://pakistan.diplo.de/pk-en/service/4-work-jobseeker-1676106) for the visa branch rather than guessing attestation/translation rules.
 
