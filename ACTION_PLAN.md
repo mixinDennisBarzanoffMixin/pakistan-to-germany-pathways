@@ -1,6 +1,6 @@
 # 30-day action plan
 
-**Current constraint: no savings.** Lead with verified employers and official Pakistan recruitment channels. Keep engineering applications as an additional route, not the only route. See [ROUTE_MATRIX.md](ROUTE_MATRIX.md).
+**Current constraint: no substantial savings.** Small amounts may be raised after a verified offer. Lead with verified employers and official Pakistan recruitment channels. Keep engineering applications as an additional route, not the only route. See [ROUTE_MATRIX.md](ROUTE_MATRIX.md).
 
 ## Days 1–3: establish the facts
 
@@ -22,7 +22,7 @@
 - Send tailored applications to qualified jobs and log each role, sponsor/contact, salary, date, and response in a **private** tracker. Ask employers whether they hire from Pakistan and support the work-permit process.
 - For UK offers, ask the sponsor to confirm SOC code 2123 (or the actual role code) and whether the under-26 new-entrant rule can be used. Start evidence for UK B2 English through an approved test or Ecctis if needed.
 - Start German study immediately. A1/A2 improves daily life and the points branch; B1 opens the training route. Use an accepted certificate provider if proof is needed; see the [federal language guidance](https://www.make-it-in-germany.com/en/living-in-germany/learn-german/knowledge).
-- Do not assemble a self-funded Opportunity Card application while there are no funds. Revisit it only if a German resident can formally sponsor him, a qualifying 20-hour contract covers the support amount, or he saves enough. Do not count on finding cleaning work after arrival to satisfy the pre-visa proof requirement.
+- Do not assemble a self-funded Opportunity Card application while he can raise only small amounts. Revisit it only if a German resident can formally sponsor him, a qualifying 20-hour contract covers the support amount, or he saves enough. Do not count on finding cleaning work after arrival to satisfy the pre-visa proof requirement.
 - Ask every prospective employer whether it pays or advances visa fees, travel, and other required costs. The legal employer-pays rule is strongest for the UAE; confirm the actual written terms in every country.
 
 ## Decision points
@@ -32,4 +32,4 @@
 - **Degree not comparable:** resolve through ZAB; separately assess the points branch on official criteria.
 - **B1 German + training offer:** vocational training visa.
 - **Irish two-year EE offer:** Critical Skills permit and then employment visa.
-- **No funds / no offer / no B1:** seek verified employer-paid UAE/Saudi recruitment and employer-sponsored Malta/Poland/UK seasonal options from Pakistan; build skills and savings while applying. There is no general “arrive and take any job” visa in these researched routes.
+- **No substantial funds / no offer / no B1:** seek verified employer-paid UAE/Saudi recruitment and employer-sponsored Malta/Poland/UK seasonal options from Pakistan; build skills and savings while applying. There is no general “arrive and take any job” visa in these researched routes.

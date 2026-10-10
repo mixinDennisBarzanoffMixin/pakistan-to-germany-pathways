@@ -9,7 +9,7 @@ Updated **10 October 2026**. No passport or other private documents are stored h
 | Air University BE in electrical engineering, Sep 2019–Nov 2024 | User-provided; exact diploma wording/campus still needed | [Air University, Islamabad is H+](https://anabin.kmk.org/db/institutionen). The Pakistani four-year [Bachelor of [Fachrichtung] Engineering is listed “Entspricht”](https://anabin.kmk.org/db/hochschulabschluesse). These are promising; compare them with the actual diploma and save printouts. |
 | C1 English, no German | Self-reported; certificate not yet confirmed | Recognised-degree Opportunity Card branch has no language-proof requirement. Points branch requires formal proof of at least B2 English; C1 adds 1 point if proven. |
 | Paid EE work since graduation | Unknown | Needed to judge points branch and Canadian route; not necessary for the recognised-degree Opportunity Card branch. |
-| Savings or sponsor declaration | **No savings reported**; German sponsor unknown | Self-funded Opportunity Card is not ready. The federal 2026 benchmark is €1,091 net/month; only a qualifying sponsor/part-time contract or new funds could unlock it. |
+| Savings or sponsor declaration | **No substantial savings**; small amounts may be raised after a verified offer; German sponsor unknown | Self-funded Opportunity Card is not ready. The federal 2026 benchmark is €1,091 net/month; only a qualifying sponsor/part-time contract or much larger savings could unlock it. |
 | UK new-entrant window | Currently age 25 | A licensed UK sponsor could offer an eligible SOC 2123 electrical-engineering job at the current reduced £41,100/year threshold if he applies before turning 26; confirm job code, hours, and current rules. |
 
 ## First route decision
@@ -34,4 +34,4 @@ Ireland's Critical Skills route is the main English-speaking target if an employ
 
 ## No-savings priority
 
-The user reports **no money**. This rules out treating a self-funded Germany job-search visa or study visa as the immediate route. Prioritise a verified employer-paid UAE offer, then Saudi employer recruitment, while asking Malta/Poland/UK seasonal employers whether they cover all unavoidable costs. See the [route matrix](ROUTE_MATRIX.md) and [funding explanation](FUNDING.md). No route can be honestly called completely free without an actual offer and written terms.
+The user reports **no substantial savings**, but small amounts may be available after a verified offer. This rules out treating a self-funded Germany job-search visa or study visa as the immediate route. Prioritise a verified employer-paid UAE offer, then Saudi employer recruitment, while asking Malta/Poland/UK seasonal employers exactly which costs they cover. See the [route matrix](ROUTE_MATRIX.md) and [funding explanation](FUNDING.md). No route can be honestly called completely free without an actual offer and written terms.
