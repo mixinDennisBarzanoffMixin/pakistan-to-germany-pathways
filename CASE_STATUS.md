@@ -10,6 +10,7 @@ Updated **10 October 2026**. No passport or other private documents are stored h
 | C1 English, no German | Self-reported; certificate not yet confirmed | Recognised-degree Opportunity Card branch has no language-proof requirement. Points branch requires formal proof of at least B2 English; C1 adds 1 point if proven. |
 | Paid EE work since graduation | Unknown | Needed to judge points branch and Canadian route; not necessary for the recognised-degree Opportunity Card branch. |
 | Savings or sponsor declaration | Unknown | Main immediate blocker for the Opportunity Card. The federal 2026 benchmark is €1,091 net/month; confirm the live Islamabad portal's documentary requirement before paying. |
+| UK new-entrant window | Currently age 25 | A licensed UK sponsor could offer an eligible SOC 2123 electrical-engineering job at the current reduced £41,100/year threshold if he applies before turning 26; confirm job code, hours, and current rules. |
 
 ## First route decision
 
@@ -26,3 +27,7 @@ Updated **10 October 2026**. No passport or other private documents are stored h
 - Passport validity and whether degree/transcripts are HEC-attested.
 
 Once those facts are known, use the [Islamabad employment/jobseeker category page](https://pakistan.diplo.de/pk-en/service/4-work-jobseeker-1676106) to start the correct online national-visa application. The embassy says the portal contains the category's current guidance and document list.
+
+## English-speaking parallel route
+
+Ireland's Critical Skills route is the main English-speaking target if an employer offers a two-year electrical-engineering contract at the current salary floor. The UK Skilled Worker route is possible with a licensed sponsor; the under-26 new-entrant salary rule makes it more plausible now than after his next birthday. Both require real qualifying offers before visa filing. See [ALTERNATIVES.md](ALTERNATIVES.md).

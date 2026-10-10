@@ -11,11 +11,12 @@
 - Make a one-page English CV with actual electrical projects, software, lab equipment, commissioning/testing experience, and measurable outcomes. Create a German-language version as ability improves; never invent experience.
 - Prepare a portfolio of 2–3 real projects, redacting private employer material. Keep passport and personal documents outside this public repository.
 - Search [Make it in Germany job listings](https://www.make-it-in-germany.com/en/working-in-germany/job-listings/job-listings), [Federal Employment Agency advice](https://www.make-it-in-germany.com/en/working-in-germany/job/looking-for-job), and employers directly. Search English and German role titles: electrical engineer, Elektrotechnik, power systems, automation, controls, test engineer, commissioning engineer, maintenance engineer.
-- Search Irish employers for electrical and controls engineering roles that meet Critical Skills conditions.
+- Search [JobsIreland](https://jobsireland.ie/en-US/job-seekers) and Irish employers for electrical and controls engineering roles that meet Critical Skills conditions. Add UK roles through [GOV.UK Find a Job](https://www.gov.uk/find-a-job), checking each employer against the [licensed sponsor register](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers).
 
 ## Days 11–30: run the routes in parallel
 
 - Send tailored applications to qualified jobs and log each role, sponsor/contact, salary, date, and response in a **private** tracker. Ask employers whether they hire from Pakistan and support the work-permit process.
+- For UK offers, ask the sponsor to confirm SOC code 2123 (or the actual role code) and whether the under-26 new-entrant rule can be used. Start evidence for UK B2 English through an approved test or Ecctis if needed.
 - Start German study immediately. A1/A2 improves daily life and the points branch; B1 opens the training route. Use an accepted certificate provider if proof is needed; see the [federal language guidance](https://www.make-it-in-germany.com/en/living-in-germany/learn-german/knowledge).
 - If no qualified offer appears and finances permit, assemble an Opportunity Card application; check the live 2026 funding figure with the mission. Do not count on finding enough cleaning work to fund the stay.
 - If funds are limited, prioritise applications from Pakistan and B1 German plus a paid training place, instead of an unfunded job-search trip.

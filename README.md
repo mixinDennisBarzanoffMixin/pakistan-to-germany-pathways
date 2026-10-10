@@ -4,7 +4,7 @@ Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air 
 
 ## The short answer
 
-**Best first move:** verify the exact university **and** degree in [anabin](https://anabin.kmk.org/) (or get a [ZAB Statement of Comparability](https://zab.kmk.org/en/statement-comparability)), then apply for **qualified electrical/technical jobs in Germany and Ireland**. A German [skilled-worker visa](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals) requires a qualified job offer. Cleaning, general labour, and similar auxiliary work do not satisfy that route, even with an EE degree.
+**Best first move:** confirm that his exact diploma matches the promising [anabin](https://anabin.kmk.org/) results, then apply for **qualified electrical/technical jobs in Germany, Ireland, and at licensed UK sponsors**. A German [skilled-worker visa](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals) requires a qualified job offer. Cleaning and general labour are also ineligible for the ordinary Irish/UK work permits researched here.
 
 If there is no offer and enough savings or an eligible sponsor, consider Germany's [Opportunity Card](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search). With a German-comparable degree, its skilled-worker branch does **not** require German proof or points, but it is a **job-search permit**, usually for up to one year, with work limited to 20 hours a week while searching. In 2026 the federal portal gives **€1,091 net per month** as the funding benchmark, or a declaration of commitment. For 12 months that is **€13,092**, before travel, insurance, deposits, and any return-ticket requirement. Do not spend this money before checking the consular checklist for your jurisdiction.
 
@@ -19,6 +19,7 @@ If degree comparability, funds, or a job offer is missing, start German now and 
 | [Opportunity Card](GERMANY.md#3-opportunity-card) | Recognition **or** points; living costs funded | Useful for on-site job search; part-time auxiliary work is allowed within its limit, but does not itself create a long-term work route. |
 | [Vocational training](GERMANY.md#4-vocational-training-ausbildung) | Training place, usually B1 German, livelihood | Practical reset if willing to learn German. |
 | [Ireland Critical Skills](ALTERNATIVES.md#ireland) | Two-year electrical-engineering offer and salary floor | Main English-speaking backup. |
+| [UK Skilled Worker](ALTERNATIVES.md#united-kingdom) | Licensed sponsor, eligible EE offer, salary and B2 English proof | Under-26 new-entrant salary rule makes it worth applying now. |
 | [Canada Express Entry](ALTERNATIVES.md#canada) | Skilled work experience, test scores, credential assessment, competitive ranking | Longer-term backup if experience and funds exist. |
 
 ## Start here
