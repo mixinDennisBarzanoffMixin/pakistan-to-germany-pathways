@@ -4,7 +4,9 @@ Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air 
 
 ## The short answer
 
-**English-first action:** use [ENGLISH_FIRST.md](ENGLISH_FIRST.md) for direct UK seasonal operator applications, Pakistan's official overseas-job portal, and Malta employer outreach, with the actual fees and employer-paid-cost questions.
+**English-first action:** use [ENGLISH_FIRST.md](ENGLISH_FIRST.md) for Pakistan's official overseas-job portal, Malta employer outreach, and the current UK seasonal operator restrictions, with the actual fees and employer-paid-cost questions.
+
+**Ireland:** [IRELAND.md](IRELAND.md) gives the realistic EE, horticulture, meat-processing and care routes, plus the permit exclusions for cleaning and construction labour.
 
 **For construction specifically:** [BAUSTELLE.md](BAUSTELLE.md) explains the legal routes. There is no arrive-first, full-time `Bauhelfer` route for this Pakistani applicant with no funds or offer. A short-term quota permit may cover unqualified site work and requires the employer to pay travel, but still needs an eligible company to hire and apply; it is temporary. An Opportunity Card allows up to 20 hours/week of site work only after living costs are proven. A paid construction-trade apprenticeship needs German and a training contract.
 
