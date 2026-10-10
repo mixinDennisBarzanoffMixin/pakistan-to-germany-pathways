@@ -31,4 +31,6 @@ The same official page describes a **training-place search visa** for applicants
 
 ## Applying from Pakistan
 
+For ordinary building-site work (`Bauhelfer`), see [the construction-specific route comparison](BAUSTELLE.md), including short-term quota employment and its employer-paid travel requirement.
+
 Use the [German mission's national-visa category pages](https://pakistan.diplo.de/pk-en/service/4-work-jobseeker-1676106) and the linked Consular Services Portal or Karachi instructions, according to residence/jurisdiction. Gather passport, degree and transcripts, recognition evidence, CV, offer/training contract or Opportunity Card documents, finance and insurance evidence, and any required translations/attestations **according to the exact live checklist**. The mission's [Opportunity Card checklist](https://pakistan.diplo.de/resource/blob/2660740/fbda69ed9a7f88712ee01d161e67cff9/opportunity-card-pdf-data.pdf) refers to HEC-attested degree/transcript. Do not assume a processing time; the mission controls appointments and decisions.

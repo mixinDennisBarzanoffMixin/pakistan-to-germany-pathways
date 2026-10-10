@@ -1,0 +1,20 @@
+# Can he enter Germany to work on a building site?
+
+Checked 10 October 2026. **With no German, no substantial savings, and no employer or training place lined up, there is currently no legal route to travel from Pakistan to Germany and simply start full-time work as a construction helper (`Bauhelfer`/`Baustellenhelfer`).** A visitor visa does not authorize work.
+
+| Route | Can he do site work? | What he needs first | Long-term prospect |
+| --- | --- | --- | --- |
+| [Skilled-worker visa](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals) | A **qualified** construction/electrical role, potentially outside his degree subject; ordinary helper work is excluded | Comparable degree and a concrete qualified offer | Can lead to longer residence if conditions continue |
+| [Short-term quota employment](https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/kurzzeitige-kontingentierte-beschaeftigung) | Potentially unqualified building-site work if the specific employer and job qualify | A German company covered by a collective agreement applies for Federal Employment Agency preapproval; at least 30 hours/week; employer pays inbound and return travel; Pakistani applicant obtains the visa | Temporary, up to eight months in a 12-month period; no automatic settlement path |
+| [Opportunity Card](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search) | Part-time helper work, within the **20-hour/week total limit**, while seeking a qualified job | Eligible degree/points **and** proof of living costs (2026 benchmark €1,091/month), perhaps a formal German resident sponsor | Must later qualify for a different residence permit |
+| [Company-based Ausbildung](https://www.make-it-in-germany.com/en/visa-residence/types/training) | Paid practical work on site as an apprentice in an eligible building trade | Usually B1 German, training contract, sufficient training pay or top-up | A credible route into a skilled trade and later qualified employment |
+
+The short-term quota route is the closest legal fit for **unqualified** site work with employer-paid flights. The [Federal Employment Agency rules](https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/kurzzeitige-kontingentierte-beschaeftigung) say it is open regardless of qualification, subject to the annual quota and an eligible company; agency labor leasing is excluded. **It still requires a company willing to hire and file paperwork before he travels.** We have not verified a willing construction employer or a currently available slot, so this is a possible category, not an available job. It is designed for a temporary labour need. Do not plan to stay permanently on that permit.
+
+## Practical next steps
+
+1. If a relative or friend in Germany can make a **formal** declaration of commitment for living costs, test the Opportunity Card funding route. A casual promise or small contributions do not satisfy the visa rule. While on the card, he can seek construction site work up to 20 hours/week, plus a qualified job or apprenticeship for the next residence title.
+2. Start German to **B1** and search for company-based training as `Ausbildung Elektroniker Energie- und Gebäudetechnik`, `Ausbildung Anlagenmechaniker SHK`, or `Ausbildung Maurer`. These are trade training searches, not helper-visa shortcuts. The employer must offer a training contract before the visa.
+3. For the temporary route, search `kurzzeitige kontingentierte Beschäftigung Bau`, `Bauhelfer §15d BeschV`, and `Baustellenhelfer`. Ask an actual construction employer whether it is collectively bound, can obtain BA preapproval, covers round-trip travel, and has work for 30+ hours/week. The employer is the applicant for preapproval. Avoid agents who sell an alleged work permit without naming the company and visa category.
+
+If neither a formal sponsor nor a qualifying employer/training place exists, the next move is **remote preparation and applications**, not travel to Germany. No federal grant or automatic work permit fills those gaps.
