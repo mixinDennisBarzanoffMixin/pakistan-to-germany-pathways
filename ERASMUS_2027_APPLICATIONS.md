@@ -11,6 +11,15 @@ The applicant reports that his Air University BE was taught entirely in English.
 
 Both are closely aligned with his EE bachelor's. Selection and a full scholarship are competitive; admission without a full scholarship does not solve the funding problem.
 
+## E-PiCo+ next actions (Germany preference)
+
+1. **This week:** request the signed Air University Medium of Instruction letter described above. Check that his passport is valid and collect English-language degree and transcript scans. Keep all personal documents outside this public repository.
+2. Draft a concise CV and prepare the [mandatory motivation-letter template](https://master-epico.ec-nantes.fr/english-version/admission/how-to-apply). Recommendation letters are not required.
+3. **From 1 November 2026:** create his own account at the [official E-PiCo+ portal](https://epico.ec-nantes.fr/), upload the documents, and select the full Erasmus Mundus scholarship. Submit before **31 January 2027, 11:59 pm GMT+1**; the programme says late documents are not accepted. Do not treat a tuition-only waiver as enough funding: the full award includes tuition waiver and €1,400 monthly for 24 months. [Deadlines](https://master-epico.ec-nantes.fr/english-version/admission/deadlines) · [Scholarship terms](https://master-epico.ec-nantes.fr/english-version/admission/fees-scholarships)
+4. State **Kiel, Germany** as his preferred mobility path. The [programme](https://master-epico.ec-nantes.fr/english-version/e-pico-programme) says scholarship recipients' first choice is considered but not guaranteed. Before relying on the German [post-graduation route](AFTER_GRADUATION.md), confirm the eventual Kiel degree and residence status with the university.
+
+The programme is [fully taught in English](https://master-epico.ec-nantes.fr/english-version/programme/about), including the German study option. German would still help with internships, daily life and later work.
+
 ## English test decision
 
 **Do not spend money until checking the English-medium letter.** His report that Air University taught the BE in English could let E-PiCo consider him without IELTS once the university issues official confirmation. STEPS currently lists an approved test for a non-native speaker, so he would need one to pursue both programmes unless STEPS confirms an exemption directly.
