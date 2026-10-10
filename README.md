@@ -4,13 +4,15 @@ Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air 
 
 ## The short answer
 
-**Best first move:** confirm that his exact diploma matches the promising [anabin](https://anabin.kmk.org/) results, then apply for **qualified electrical/technical jobs in Germany, Ireland, and at licensed UK sponsors**. A German [skilled-worker visa](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals) requires a qualified job offer. Cleaning and general labour are also ineligible for the ordinary Irish/UK work permits researched here.
+**Best first move with no savings:** use the [country route matrix](ROUTE_MATRIX.md) to pursue verified **UAE and Saudi employer-paid recruitment** first, plus Maltese, Polish, and UK seasonal employers willing to cover or advance required costs. His BE and English also justify applications for better-paid engineering jobs in Germany, Ireland, and the UK. He can seek nonengineering work in several countries, but each visa still has a job/permit gate. Do not pay a recruiter for a promise of a visa.
 
-If there is no offer and enough savings or an eligible sponsor, consider Germany's [Opportunity Card](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search). With a German-comparable degree, its skilled-worker branch does **not** require German proof or points, but it is a **job-search permit**, usually for up to one year, with work limited to 20 hours a week while searching. In 2026 the federal portal gives **€1,091 net per month** as the funding benchmark, or a declaration of commitment. For 12 months that is **€13,092**, before travel, insurance, deposits, and any return-ticket requirement. Do not spend this money before checking the consular checklist for your jurisdiction.
+Germany's [Opportunity Card](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search) is **conditional** now because he has no savings. With a German-comparable degree, its skilled-worker branch does **not** require German proof or points, but it is a job-search permit with work limited to 20 hours a week. In 2026 he must show **€1,091 net per month** of living-cost support, through his own blocked account, an eligible German resident's formal declaration of commitment, or qualifying part-time pay. Twelve months is **€13,092** of his own support money, not a German government grant. A shorter card may be possible with proportionately less support. See [what proof of funds means](FUNDING.md).
 
 If degree comparability, funds, or a job offer is missing, start German now and consider [paid vocational training](https://www.make-it-in-germany.com/en/visa-residence/types/training). This generally needs **B1 German**, a training place, and adequate income/funds. It is a medium-term route, not an immediate way to enter for any job.
 
 ## Choose a route
+
+The [country route matrix](ROUTE_MATRIX.md) covers the realistic nonengineering and engineering options across the UAE, Saudi Arabia, Malta, Poland, Czechia, Ireland, Germany, the UK, Canada, Japan, South Korea, New Zealand, Australia, and Croatia. It distinguishes a temporary exit from a durable relocation path.
 
 | Route | Gate to clear | Fit for this profile |
 | --- | --- | --- |
@@ -26,7 +28,7 @@ If degree comparability, funds, or a job offer is missing, start German now and 
 
 1. Read [degree recognition](RECOGNITION.md). Air University, Islamabad is listed **H+** in anabin, and anabin lists a Pakistani four-year “Bachelor of [Fachrichtung] Engineering” as **Entspricht**. Confirm his diploma's exact award title and campus against those entries, then save official printouts. **HEC/PEC certification alone does not prove German comparability.**
 2. Fill out the [personal decision sheet](CHECKLIST.md) without committing sensitive documents to this repository.
-3. Follow the [30-day action plan](ACTION_PLAN.md): apply for qualified EE and adjacent technical roles, work on German, and prepare the correct visa branch.
+3. Follow the [30-day action plan](ACTION_PLAN.md): start with employer-funded overseas roles, keep engineering applications in parallel, and prepare the correct visa branch.
 4. Use the [official source index](SOURCES.md) for current rules. The German mission's Karachi Opportunity Card page currently quotes **€1,027/month**, while the federal portal quotes **€1,091/month for 2026**; the mission says Islamabad applications use the Consular Services Portal. Treat the amount as unresolved until the current application checklist confirms it.
 
 **Important:** A tourist/Schengen visa is not permission to take a job. No agent can guarantee a visa or buy a faster German embassy appointment. Use official portals and keep originals and payments under your control. The [German mission in Pakistan warns about fraudulent appointment agents](https://pakistan.diplo.de/pk-en/service/visa-shortterm-1673126).

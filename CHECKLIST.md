@@ -10,10 +10,10 @@
 | Paid skilled work: role, dates, evidence | |
 | English level / test | Self-reported C1; test certificate unknown |
 | German level / target B1 date | No German reported; target date unknown |
-| Available savings in EUR equivalent | |
+| Available savings in EUR equivalent | None reported |
 | German sponsor declaration possible? | |
 | Passport expiry | |
 | Pakistan residence jurisdiction: Islamabad/Karachi | Rawalpindi, Punjab → Islamabad |
-| Target qualified roles / cities | |
+| Target roles / countries | UAE/Saudi employer-paid jobs; Malta/Poland/UK seasonal if costs covered; engineering options remain open |
 
 Do not upload passport scans, addresses, bank statements, reference contacts, or a completed copy of this sheet to a public repository.
