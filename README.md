@@ -4,6 +4,8 @@ Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air 
 
 ## The short answer
 
+**English-first action:** use [ENGLISH_FIRST.md](ENGLISH_FIRST.md) for direct UK seasonal operator applications, Pakistan's official overseas-job portal, and Malta employer outreach, with the actual fees and employer-paid-cost questions.
+
 **For construction specifically:** [BAUSTELLE.md](BAUSTELLE.md) explains the legal routes. There is no arrive-first, full-time `Bauhelfer` route for this Pakistani applicant with no funds or offer. A short-term quota permit may cover unqualified site work and requires the employer to pay travel, but still needs an eligible company to hire and apply; it is temporary. An Opportunity Card allows up to 20 hours/week of site work only after living costs are proven. A paid construction-trade apprenticeship needs German and a training contract.
 
 **Best first move with no substantial savings:** use the [country route matrix](ROUTE_MATRIX.md) to pursue verified **UAE and Saudi employer-paid recruitment** first. He may be able to raise small amounts after a genuine offer, so also ask Maltese, Polish, and UK seasonal employers exactly which costs they pay or advance. His BE and English justify applications for better-paid engineering jobs in Germany, Ireland, and the UK. He can seek nonengineering work in several countries, but each visa still has a job/permit gate. Do not pay a recruiter for a promise of a visa.
