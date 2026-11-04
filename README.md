@@ -1,6 +1,6 @@
 # Legal routes from Pakistan to Germany (and alternatives)
 
-Research snapshot: **10 October 2026**. Profile: Pakistani citizen, age 25, Air University BE in electrical engineering (Sep 2019–Nov 2024), C1 English, no German yet, based in Rawalpindi. See the [case status](CASE_STATUS.md) for what is verified and what still blocks a visa application. This is a planning guide, not a visa decision. Verify every rule and amount on the linked official page immediately before applying.
+Research snapshot: **4 November 2026**. Profile: Pakistani citizen, age 25, Air University BE in electrical engineering (Sep 2019–Jul 2025), C1 English, no German yet, based in Rawalpindi. See the [case status](CASE_STATUS.md) for what is verified and what still blocks a visa application. This is a planning guide, not a visa decision. Verify every rule and amount on the linked official page immediately before applying.
 
 ## The short answer
 
