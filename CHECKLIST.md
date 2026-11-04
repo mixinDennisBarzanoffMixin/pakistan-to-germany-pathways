@@ -8,7 +8,7 @@
 | anabin university result; degree result | Air University, Islamabad H+; Pakistani four-year Bachelor of [Fachrichtung] Engineering Entspricht; confirm match to actual diploma |
 | ZAB needed / requested | |
 | Paid skilled work: role, dates, evidence | |
-| English level / test | Self-reported C1; standardised test unknown. Air University signed English-medium letter was previously reviewed and E-PiCo+ accepts this type of proof, but its source file must be recovered or reattached. |
+| English level / test | Self-reported C1; standardised test unknown. Air University signed and stamped English proficiency certificate is archived privately and appears to meet E-PiCo+'s English-medium proof requirement. |
 | German level / target B1 date | No German reported; target date unknown |
 | Available savings in EUR equivalent | No substantial savings; small amounts may be raised after a verified offer |
 | German sponsor declaration possible? | |
