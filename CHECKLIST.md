@@ -7,7 +7,7 @@
 | HEC attestation / PEC registration | PEC Registered Engineer certificate supplied, issued September 2026, printed expiry 31 December 2026 unless renewed. HEC attestation unknown. |
 | anabin university result; degree result | Air University, Islamabad H+; Pakistani four-year Bachelor of [Fachrichtung] Engineering Entspricht; confirm match to actual diploma |
 | ZAB needed / requested | |
-| Paid skilled work: role, dates, evidence | |
+| Paid skilled work: role, dates, evidence | No EE employment reported. CV draft includes one year in automotive sales and project-based freelance video editing; exact dates and evidence to confirm. |
 | English level / test | Self-reported C1; standardised test unknown. Air University signed and stamped English proficiency certificate is archived privately and appears to meet E-PiCo+'s English-medium proof requirement. |
 | German level / target B1 date | No German reported; target date unknown |
 | Available savings in EUR equivalent | No substantial savings; small amounts may be raised after a verified offer |
